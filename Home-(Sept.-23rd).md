@@ -23,7 +23,7 @@ The goal is to make group drives safer, more organized, and more fun by offering
 
 - Convoy Creation & Joining
     - Create a convoy with a set destination (and optional stops).
-    -Invite others as friends (will either use shared link or will give users ability to befriend other users like on instagram and other social media apps).
+    -Invite others as friends (will either use shared link or will give users ability to befriend other users like on ig and other social media apps).
     -Live locations are shared only once the convoy starts.
 
 - Real-Time Convoy Tracking (Map)
