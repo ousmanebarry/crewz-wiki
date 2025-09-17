@@ -15,6 +15,6 @@ The goal is to make group drives safer, more organized, and more fun by offering
 
 - Backend / Database: Supabase + TypeScript (Express.js for APIs)
 
-- Maps & Live Location: Google Maps SDK
+- Maps & Live Location: Google Maps SDK + Supabase Channels
 
 - Authentication: Supabase (email or phone login)
