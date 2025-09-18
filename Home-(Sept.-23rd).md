@@ -39,6 +39,7 @@ The goal is to make group drives safer, more organized, and more fun by offering
 - Convoy Dashboard
      - List active and upcoming convoys.
      - Show who’s in and convoy status.
+     - Display possible user statistics (Average speed, average time, number of convoys joined, etc.)
 
 
 
