@@ -34,6 +34,7 @@ The goal is to make group drives safer, more organized, and more fun by offering
 - Convoy Communication
      - Group chat for convoy members.
      - Basic alerts (e.g., “Route change”, “Stopping soon”).
+     - IF time allows, will add a better/safer voice chat/call option
 
 - Convoy Dashboard
      - List active and upcoming convoys.
