@@ -17,30 +17,32 @@ The goal is to make group drives safer, more organized, and more fun by offering
 
 - Maps & Live Location: Google Maps SDK + Supabase Channels
 
-- Authentication: Supabase (email or phone login)
+- Authentication: Supabase (email login)
 
-## Features (Main features + extra possible features if time allows)
+## Features
+
+### MVP Features
 
 - Convoy Creation & Joining
     - Create a convoy with a set destination (and optional stops).
-    - Invite others as friends (will either use shared link or will give users ability to befriend other users like on ig and other social media apps).
+    - Invite others as friends
     - Live locations are shared only once the convoy starts.
 
 - Real-Time Convoy Tracking (Map)
      - Show all joined drivers on a shared map like a video game (Forza, F1, Mario kart).
      - Indicate if a driver hasn’t joined yet or has left.
-     - Reroute user who’s not within convoy circle to intersect at a certain point and rejoin the convoy (either that or reroute to convoy destination).
  
 - Convoy Communication
      - Group chat for convoy members.
      - Basic alerts (e.g., “Route change”, “Stopping soon”).
-     - IF time allows, will add a better/safer voice chat/call option
 
 - Convoy Dashboard
      - List active and upcoming convoys.
      - Show who’s in and convoy status.
-     - Display possible user statistics (Average speed, average time, number of convoys joined, etc.)
 
+### Extra Features
 
-
+- Add a better/safer voice chat/call option
+- Display possible user statistics (Average speed, average time, number of convoys joined, etc.)
+- Reroute user who’s not within convoy circle to intersect at a certain point and rejoin the convoy (either that or reroute to convoy destination).
 
