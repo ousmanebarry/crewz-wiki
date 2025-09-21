@@ -46,3 +46,15 @@ The goal is to make group drives safer, more organized, and more fun by offering
 - Display possible user statistics (Average speed, average time, number of convoys joined, etc.)
 - Reroute user who’s not within convoy circle to intersect at a certain point and rejoin the convoy (either that or reroute to convoy destination).
 
+## Roadmap
+
+- [ ] Create sign up / login / logout logic
+     - [ ] Email sign up / login
+     - [ ] Verify email before login
+
+- [ ] Create adding / removing friends logic
+- [ ] Create view to create convoy
+- [ ] Create view to edit convoy
+- [ ] Create option to delete convoy
+- [ ] Create view to view all convoy
+
