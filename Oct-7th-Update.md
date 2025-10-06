@@ -1,17 +1,5 @@
 # DB Schema
 
-## Explanation
-
-- **users** will be keeping track of user info and stats in general
-- **friends** will be for creating a relationship between two users
-- **convoys** will be for storing the fundamental info about a convoy
-- **convoy_members** keeps track of all the people inside a convoy
-- **convoy_stops** keeps track of potential stops added to a convoy
-- **auth.users** is the default table created by supabase's authentication system
-
-- **messages** is a supabase channel that will take care of broadcasting messages/alerts to other convoy members
-- **locations** is a supabase channel that will take care of broadcasting locations to other users during a convoy
-
 ## Tables
   - users
   - friends
@@ -27,3 +15,16 @@
   - locations
 
 <img width="546" height="504" alt="image" src="https://github.com/user-attachments/assets/86a69681-e0ec-471d-9083-e9e23e78e80c" />
+
+
+## Explanation
+
+- **users** will be keeping track of user info and stats in general
+- **friends** will be for creating a relationship between two users
+- **convoys** will be for storing the fundamental info about a convoy
+- **convoy_members** keeps track of all the people inside a convoy
+- **convoy_stops** keeps track of potential stops added to a convoy
+- **auth.users** is the default table created by supabase's authentication system
+
+- **messages** is a supabase channel that will take care of broadcasting messages/alerts to other convoy members
+- **locations** is a supabase channel that will take care of broadcasting locations to other users during a convoy
