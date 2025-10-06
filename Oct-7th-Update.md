@@ -8,7 +8,7 @@
   - convoy_stops
   - auth.users (supabase auth table)
   
-<img width="1326" height="685" alt="image" src="https://github.com/user-attachments/assets/fecd1a4f-c78e-4996-a38a-69abf6a47afb" />
+<img width="1434" height="698" alt="image" src="https://github.com/user-attachments/assets/80b5d6d3-4346-4671-afc2-023a7256f4fe" />
 
 ## Channels
   - messages
