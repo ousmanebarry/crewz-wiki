@@ -1,5 +1,7 @@
 # DB Schema
 
+[See Lucid Chart](https://lucid.app/lucidchart/bc1dd0ce-2141-4854-af7e-0250753e38ad/edit?viewport_loc=-2422%2C-1446%2C3326%2C1630%2C0_0&invitationId=inv_0bd6a698-2a47-4f29-92da-be625035d436)
+
 ## Tables
   - users
   - friends
