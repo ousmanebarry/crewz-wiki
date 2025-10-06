@@ -8,9 +8,9 @@
   - convoy_stops
   - auth.users (supabase auth table)
   
-<img width="1180" height="578" alt="image" src="https://github.com/user-attachments/assets/8693f70e-e981-42b9-b1f7-4fd09e65380f" />
+<img width="1326" height="685" alt="image" src="https://github.com/user-attachments/assets/fecd1a4f-c78e-4996-a38a-69abf6a47afb" />
 
-## Live Channels
+## Channels
   - messages
   - locations
 
