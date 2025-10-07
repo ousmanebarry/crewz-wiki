@@ -7,10 +7,10 @@
   - friends
   - convoys
   - convoy_members
-  - convoy_stops
+  - convoy_stops???
   - auth.users (supabase auth table)
   
-<img width="1984" height="992" alt="image" src="https://github.com/user-attachments/assets/e7d16293-5679-410e-816a-2d223bd4de0c" />
+<img width="1296" height="566" alt="image" src="https://github.com/user-attachments/assets/9a770572-6319-4075-9d12-2fae3254c801" />
 
 ## Channels
   - messages
@@ -25,7 +25,7 @@
 - **friends** will be for creating a relationship between two users
 - **convoys** will be for storing the fundamental info about a convoy
 - **convoy_members** keeps track of all the people inside a convoy
-- **convoy_stops** keeps track of potential stops added to a convoy
+- **convoy_stops** keeps track of potential stops added to a convoy???
 - **auth.users** is the default table created by supabase's authentication system
 
 - **messages** is a supabase channel that will take care of broadcasting messages/alerts to other convoy members
