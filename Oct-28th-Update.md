@@ -1,1 +1,1 @@
-# User Sign up, Login, Account Confirmation Complete
+# User Sign up, Login, Account Confirmation, Friend connection, and convoy creation Complete
