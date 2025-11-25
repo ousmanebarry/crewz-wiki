@@ -1,6 +1,6 @@
 # Working on Convoy Implementation Functionality + Enhancing user profile search (None of them complete yet)
 
-## The goal is to have the entire convoy feature working end-to-end in the next couple of weeks. This includes:
+The goal is to have the entire convoy feature working end-to-end in the next couple of weeks. This includes:
 
 **Convoy Creation & Scheduling**
 - Users can create a convoy with a destination, optional stops, and a scheduled start time.
@@ -18,6 +18,7 @@
 - Convoys can be ended, finalizing status and optionally updating convoy statistics.
 
 **Enhancing User Profile Search**
+
 The goal is to create a more fluid/intuitive search experience, inspired by modern social media applications (like instagram or snapchat). Improvements include:
 
 - Searching users by username (possibly include email option)
